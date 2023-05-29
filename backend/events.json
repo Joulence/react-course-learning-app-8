@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"Renault Event","image":"https://events.renaultgroup.com/app/uploads/sites/7/2022/01/PHOTO-HERO-BANNER.jpg","date":"2023-06-14","description":"Save the date - June 14, 2023, for an exciting Renault event! Join us as we showcase the latest innovations and breakthroughs in automotive design and technology. Get a firsthand look at our exceptional lineup of vehicles, renowned for their style, performance, and eco-friendly features. Experience the thrill of test drives, explore interactive displays, and discover how Renault is shaping the future of mobility. Whether you're a car enthusiast or simply looking for a remarkable driving experience, this event is not to be missed. Make your way to our venue on June 14th and be a part of the Renault revolution!","id":"ca10db38-2dbd-4644-b2d3-f226093f2a5b"},{"title":"Mercedes Event!","image":"https://www.mercedes-benzarena.com/en/guest/guest7.jpg","date":"2023-05-30","description":"Join us on May 30, 2023, for an exclusive Mercedes event! Experience the epitome of luxury and innovation as we unveil our latest lineup of exceptional vehicles. Immerse yourself in the world of Mercedes-Benz with captivating displays, test drives, and engaging presentations. Discover cutting-edge technologies, impeccable craftsmanship, and the unparalleled performance that define our brand. Don't miss this opportunity to witness the future of automotive excellence. Mark your calendar and be a part of this extraordinary Mercedes event on May 30th!","id":"7961aed8-8518-4b08-8238-cb86047c8149"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
