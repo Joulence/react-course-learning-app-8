@@ -1,8 +1,9 @@
-import { Form, useNavigate, useNavigation } from 'react-router-dom';
+import { Form, useActionData, useNavigate, useNavigation } from 'react-router-dom';
 
 import classes from './EventForm.module.css';
 
 function EventForm({ method, event }) {
+  const data = useActionData();
   const navigate = useNavigate();
   const navigation = useNavigation();
 
@@ -14,6 +15,9 @@ function EventForm({ method, event }) {
 
   return (
     <Form method='POST' className={classes.form}>
+      {data && data.errors && <ul>
+        {Object.values(data.errors).map(err => <li key={err}>{err}</li>)}
+      </ul>}
       <p>
         <label htmlFor="title">Title</label>
         <input id="title" type="text" name="title" required defaultValue={event ? event.title : ''} />
