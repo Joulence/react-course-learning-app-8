@@ -1,3 +1,5 @@
+This project is the part of the course "React - The Complete Guide" by Maximilian Schwarzmüller (https://www.udemy.com/course/react-the-complete-guide-incl-redux/).
+
 # React Event Router Project
 
 This project is a React application that showcases event data using React Router for client-side routing and dynamic rendering. It interacts with a Node.js backend to fetch and manage event data.
